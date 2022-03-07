@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebForumWeek3React/static/css/main.e6c13ad2.css",
+    "main.js": "/WebForumWeek3React/static/js/main.d30bf6e0.js",
+    "static/js/787.723e7e4f.chunk.js": "/WebForumWeek3React/static/js/787.723e7e4f.chunk.js",
+    "index.html": "/WebForumWeek3React/index.html",
+    "main.e6c13ad2.css.map": "/WebForumWeek3React/static/css/main.e6c13ad2.css.map",
+    "main.d30bf6e0.js.map": "/WebForumWeek3React/static/js/main.d30bf6e0.js.map",
+    "787.723e7e4f.chunk.js.map": "/WebForumWeek3React/static/js/787.723e7e4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d30bf6e0.js"
+  ]
+}
