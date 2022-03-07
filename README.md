@@ -1,4 +1,4 @@
-![ss of login page](https://github.com/EuphosiouX/WebForumWeek3React/blob/master/login.jpg?raw=true)
+![ss of login page](https://github.com/EuphosiouX/WebForumWeek3React/blob/master/login.png?raw=true)
 
 # Getting Started with Create React App
 
